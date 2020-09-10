@@ -458,5 +458,6 @@ ul{
   }
   .right-column{
     justify-content: center;
+    width:95%; 
   }
 }
