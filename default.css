@@ -296,6 +296,7 @@ ul{
 
 #social_img{
   width: 100%;
+  border-radius: 25% 0 0 0
 }
 
 .social-media a{
@@ -304,7 +305,7 @@ ul{
 
 .social-media ul{
   margin: 0;
-  padding: 0;
+  padding: 0
 }
 
 .social-media li{
@@ -457,5 +458,6 @@ ul{
   }
   .right-column{
     justify-content: center;
+    width:95%; 
   }
 }
