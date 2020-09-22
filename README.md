@@ -1,4 +1,4 @@
 # Portfolio
 This is my first portfolio webisite
-## Hosting at
+## Live at
 https://praneeth-gunti.github.io/Portfolio/
